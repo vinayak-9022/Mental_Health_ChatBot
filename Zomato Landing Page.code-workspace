@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Zomato Landing Page"
+		},
+		{
+			"path": "../Project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ChatBot"
+	}
+}
